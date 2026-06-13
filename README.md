@@ -22,3 +22,16 @@ Markteintritt über Magist mit Pilotphase, SLA-Kontrolle, Scale-Up und anschlie�
 ## Dateien
 - Projekt Eniac Magist Analyse.sql
 - Projekt Magist Strategie.pdf
+
+## Persönliche Erkenntnisse
+
+Dieses Projekt hat mir geholfen:
+
+- Teamarbeit in einer deutschen Arbeitsumgebung besser zu verstehen.
+- SQL und Tableau in einem realen Business Case anzuwenden.
+- Präsentations- und Kommunikationsfähigkeiten auf Deutsch zu verbessern.
+- Die Bedeutung von Organisation, Zusammenarbeit und Verbindlichkeit im Projektmanagement zu erkennen.
+
+- SQL und Tableau in einem realen Business Case anzuwenden.
+- Präsentations- und Kommunikationsfähigkeiten auf Deutsch zu verbessern.
+- Die Bedeutung von Organisation, Zusammenarbeit und Verbindlichkeit im Projektmanagement zu erkennen.
