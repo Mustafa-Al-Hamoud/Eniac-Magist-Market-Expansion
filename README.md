@@ -31,7 +31,5 @@ Dieses Projekt hat mir geholfen:
 - SQL und Tableau in einem realen Business Case anzuwenden.
 - Präsentations- und Kommunikationsfähigkeiten auf Deutsch zu verbessern.
 - Die Bedeutung von Organisation, Zusammenarbeit und Verbindlichkeit im Projektmanagement zu erkennen.
-
-- SQL und Tableau in einem realen Business Case anzuwenden.
 - Präsentations- und Kommunikationsfähigkeiten auf Deutsch zu verbessern.
 - Die Bedeutung von Organisation, Zusammenarbeit und Verbindlichkeit im Projektmanagement zu erkennen.
