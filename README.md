@@ -1,35 +1,47 @@
-# Eniac-Magist-Market-Expansion
+# Eniac & Magist Market Expansion Analysis [SQL | Tableau]
 
-## Projektziel
-Analyse einer möglichen strategischen Partnerschaft zwischen Eniac und Magist für den Eintritt in den brasilianischen Markt.
+## Project Overview
 
-## Verwendete Werkzeuge
+This project evaluates a potential strategic partnership between Eniac and Magist to support Eniac's expansion into the Brazilian market.
+
+Using SQL and Tableau, customer behavior, seller performance, logistics quality, and market potential were analyzed to determine whether Magist could be a suitable partner for Eniac's growth strategy.
+
+## Key Findings
+
+- 75% of customers purchasing products above €500 used installment payments.
+- Customer review scores dropped significantly when delivery delays exceeded 3.5 days.
+- Average customer rating remained above 4.0 in major metropolitan regions.
+- Technology products represented only X% of Magist's total marketplace sales.
+
+Recommendation
+
+## Conditional Go
+
+Proceed with a controlled market entry through Magist, starting with a pilot phase, strict SLA monitoring, gradual scaling, and continuous performance evaluation.
+
+## Tech Stack
+
 - SQL
 - Tableau
-- Datenvisualisierung
+- Data Visualization
 - Business Analytics
 
-## Zentrale Erkenntnisse
-- Die Logistikleistung ist in den Metropolregionen Brasiliens stabil.
-- Ab etwa 3,5 Tagen Lieferverzögerung verschlechtert sich die Kundenzufriedenheit deutlich.
-- Tech-Kunden nutzen bei höheren Bestellwerten häufig Ratenzahlungen.
-- Magist zeigt ein starkes Wachstumspotenzial für eine Kooperation.
+## Project Files
 
-## Empfehlung
-Bedingtes „Go“:
-Markteintritt über Magist mit Pilotphase, SLA-Kontrolle, Scale-Up und anschließendem Monitoring.
+Eniac_Magist_Analyse.sql
 
-## Dateien
-- Projekt Eniac Magist Analyse.sql
-- Projekt Magist Strategie.pdf
+SQL queries used for data exploration, KPI calculations, and business analysis.
 
-## Persönliche Erkenntnisse
+Eniac_Magist_Strategy.pdf
 
-Dieses Projekt hat mir geholfen:
+Final business presentation containing insights, visualizations, recommendations, and strategic conclusions.
 
-- Teamarbeit in einer deutschen Arbeitsumgebung besser zu verstehen.
-- SQL und Tableau in einem realen Business Case anzuwenden.
-- Präsentations- und Kommunikationsfähigkeiten auf Deutsch zu verbessern.
-- Die Bedeutung von Organisation, Zusammenarbeit und Verbindlichkeit im Projektmanagement zu erkennen.
-- Präsentations- und Kommunikationsfähigkeiten auf Deutsch zu verbessern.
-- Die Bedeutung von Organisation, Zusammenarbeit und Verbindlichkeit im Projektmanagement zu erkennen.
+Personal Reflection
+
+## This project helped me:
+
+- Apply SQL and Tableau in a real-world business scenario.
+- Improve analytical thinking and data-driven decision-making.
+- Strengthen presentation and communication skills in German.
+- Gain experience working within a collaborative project environment.
+- Better understand the importance of organization, teamwork, and accountability in project management.
