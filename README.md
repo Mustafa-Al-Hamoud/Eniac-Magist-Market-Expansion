@@ -24,23 +24,7 @@ Using SQL and Tableau, customer behavior, seller performance, logistics quality,
 | Tech Customer Profile | Growth Potential |
 |----------------------|------------------|
 | ![Customer Profile](images/customer-profile.png) | ![Growth Potential](images/growth-potential.png) |
-## Dashboard Preview
 
-### Logistics Performance
-
-![Logistics Performance](images/logistics-performance.png)
-
-### Customer Satisfaction vs Delivery Delay
-
-![Tipping Point](images/tipping-point.png)
-
-### Tech Customer Profile
-
-![Customer Profile](images/customer-profile.png)
-
-### Growth Potential
-
-![Growth Potential](images/growth-potential.png)
 
 ## Conditional Go
 
