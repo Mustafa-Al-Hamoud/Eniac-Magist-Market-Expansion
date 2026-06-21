@@ -15,7 +15,15 @@ Using SQL and Tableau, customer behavior, seller performance, logistics quality,
 - 74% of customers purchasing products above €500 use installment payments, highlighting strong demand for premium technology products.
 - Magist experienced strong early growth and provides immediate access to 25+ Brazilian states without requiring investment in proprietary logistics infrastructure.
 
+## Dashboard Preview
 
+| Logistics Performance | Customer Satisfaction |
+|----------------------|----------------------|
+| ![Logistics](images/logistics-performance.png) | ![Tipping Point](images/tipping-point.png) |
+
+| Tech Customer Profile | Growth Potential |
+|----------------------|------------------|
+| ![Customer Profile](images/customer-profile.png) | ![Growth Potential](images/growth-potential.png) |
 ## Dashboard Preview
 
 ### Logistics Performance
