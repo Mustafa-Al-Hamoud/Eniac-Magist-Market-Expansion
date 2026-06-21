@@ -28,10 +28,10 @@ Using SQL and Tableau, customer behavior, seller performance, logistics quality,
 
 ## Dashboard Preview1
 
-<img src="images/logistics-performance.png" width="400">  | <img src="images/tipping-point.png" width="400">
+<img src="images/logistics-performance.png" width="200">  | <img src="images/tipping-point.png" width="200"> | <img src="images/customer-profile.png" width="200"> | <img src="images/growth-potential.png" width="200">
 
 
-<img src="images/customer-profile.png" width="400"> | <img src="images/growth-potential.png" width="400">
+
 
 ## Conditional Go
 
