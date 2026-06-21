@@ -20,7 +20,7 @@ Using SQL and Tableau, customer behavior, seller performance, logistics quality,
 
 ### Logistics Performance
 
-![Logistics Performance](images/logistics-performance.png)
+![Logistics Performance](images/images/logistics-Performance.png)
 
 ### Customer Satisfaction vs Delivery Delay
 
