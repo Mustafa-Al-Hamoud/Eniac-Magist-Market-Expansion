@@ -25,14 +25,6 @@ Using SQL and Tableau, customer behavior, seller performance, logistics quality,
 |----------------------|------------------|
 | ![Customer Profile](images/customer-profile.png) | ![Growth Potential](images/growth-potential.png) |
 
-
-## Dashboard Preview1
-
-<img src="images/logistics-performance.png" width="200">  | <img src="images/tipping-point.png" width="200"> | <img src="images/customer-profile.png" width="200"> | <img src="images/growth-potential.png" width="200">
-
-
-
-
 ## Conditional Go
 
 Proceed with a controlled market entry through Magist, starting with a pilot phase, strict SLA monitoring, gradual scaling, and continuous performance evaluation.
