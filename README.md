@@ -17,6 +17,24 @@ Using SQL and Tableau, customer behavior, seller performance, logistics quality,
 
 Recommendation
 
+## Dashboard Preview
+
+### Logistics Performance
+
+![Logistics Performance](images/logistics-performance.png)
+
+### Customer Satisfaction vs Delivery Delay
+
+![Tipping Point](images/tipping-point.png)
+
+### Tech Customer Profile
+
+![Customer Profile](images/customer-profile.png)
+
+### Growth Potential
+
+![Growth Potential](images/growth-potential.png)
+
 ## Conditional Go
 
 Proceed with a controlled market entry through Magist, starting with a pilot phase, strict SLA monitoring, gradual scaling, and continuous performance evaluation.
