@@ -8,10 +8,12 @@ Using SQL and Tableau, customer behavior, seller performance, logistics quality,
 
 ## Key Findings
 
-- 75% of customers purchasing products above €500 used installment payments.
-- Customer review scores dropped significantly when delivery delays exceeded 3.5 days.
-- Average customer rating remained above 4.0 in major metropolitan regions.
-- Technology products represented only X% of Magist's total marketplace sales.
+- More than 90% logistics reliability was observed in major metropolitan regions such as São Paulo and Minas Gerais.
+- Tier-2 regions showed an estimated 15% delivery failure risk, representing the main operational challenge.
+- Customer satisfaction starts to decline after only 1 day of delivery delay.
+- At approximately 3.5 days delay, average ratings drop to around 2 stars, while roughly 50% of customers leave negative reviews.
+- 74% of customers purchasing products above €500 use installment payments, highlighting strong demand for premium technology products.
+- Magist experienced strong early growth and provides immediate access to 25+ Brazilian states without requiring investment in proprietary logistics infrastructure.
 
 Recommendation
 
